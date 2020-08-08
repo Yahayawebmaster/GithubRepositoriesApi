@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubRepoApi</string>
+    <string name="my_github_projects">My Github Projects</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="created_at">Created At: </string>
+    <string name="watchers">Watchers: </string>
+    <string name="languages">Languages: </string>
+    <string name="repository_name">Repository Name</string>
+    <string name="clone_url">Clone URL: </string>
+    <string name="updated_at">Updated At: </string>
+    <string name="open_issues">OpenIssues</string>
+</resources>
